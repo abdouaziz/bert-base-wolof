@@ -36,7 +36,7 @@
   'token': 1735}]
 ```
 
-You can try this model directly in the huggingface hub hugs
+You can try this model directly in the huggingface hub 🤗
 
 [bert-base-wolof](https://huggingface.co/abdouaziiz/bert-base-wolof)
 
