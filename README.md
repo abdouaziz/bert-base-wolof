@@ -36,6 +36,12 @@
   'token': 1735}]
 ```
 
+You can try this model directly in the huggingface hub hugs
+
+[bert-base-wolof](https://huggingface.co/abdouaziiz/bert-base-wolof)
+
+
+
 ## Training data
 The data sources are [Bible OT](http://biblewolof.com/) , [WOLOF-ONLINE](http://www.wolof-online.com/) 
 [ALFFA_PUBLIC](https://github.com/getalp/ALFFA_PUBLIC/tree/master/ASR/WOLOF)
